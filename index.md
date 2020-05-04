@@ -1,5 +1,9 @@
 ### Projects:
 
-1. Weather App
+1. Bookmark Manager Web API
 
-2.Bookmark Manager Web API
+  * ASP.NET MVC
+
+2. Weather App
+
+  * JavaScript (jQuery)
