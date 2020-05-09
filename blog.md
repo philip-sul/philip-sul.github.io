@@ -1,3 +1,10 @@
+<table>
+  <tr>
+    <td><a href="https://philip-sul.github.io">Projects</a></td>
+    <td><a href="https://philip-sul.github.io/blog">Blog</a></td>
+  </tr>
+</table>
+
 # My Blog
 <hr>
 
