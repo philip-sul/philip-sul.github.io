@@ -8,8 +8,26 @@
 # My Blog
 <hr>
 
-## Resizing images on github 
-### Fixed issue - 05.08.2020
+## Issue: Roslyn issue when running MVC project
+### Fix: Outdated packages - 05.08.2020
+
+Issue:
+
+Trying to run project after first time in about a year.
+Had an issue with <i>Could not find a part of the path … bin\roslyn\csc.exe</i>
+
+Run this in the Package Manager Console:
+
+    Update-Package Microsoft.CodeDom.Providers.DotNetCompilerPlatform -r
+
+[could-not-find-a-part-of-the-path-bin-roslyn-csc-exe](https://stackoverflow.com/questions/32780315/could-not-find-a-part-of-the-path-bin-roslyn-csc-exe)
+
+Basically some .NET packages had bugs and they were updated.
+
+<hr>
+
+## Issue: Resizing images on github 
+### Fix: Use absolute path from Chrome Dev Tools - 05.08.2020
 
 I was looking for a quick way to resize images in Markdown.
 There are some outdated solutions on the web.
