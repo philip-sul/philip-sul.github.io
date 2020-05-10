@@ -59,7 +59,7 @@ to and issue with the src.
 ## First Blog post 
 ### Github portfolio - 05.08.2020
 
-I have started to upload some of my school projects to publically to Github last week.
+I have started to upload some of my school projects publically to Github last week.
 Some previously localhost or privately on Github or Bitbucket.
 
 I will track my progress here with a simple blog to reflect on my achievements and struggles.
