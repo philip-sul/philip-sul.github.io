@@ -39,18 +39,18 @@ It said to find the src using Chrome Dev Tools
 
 Working example:
 
-    <img src="https://github.com/philip-sul/philip-sul.github.io/raw/master/location_page_load.png" alt="location page load graph" height="75%" width="75%">
+    <img src="https://github.com/philip-sul/philip-sul.github.io/raw/master/images/location_page_load.png" alt="location page load graph" height="75%" width="75%">
 
 The solution is to use an absolute file path.
 
 I was having issues because the regular way to add images in Markdown is using relative file path:
 
-    ![location page load graph](/location_page_load.png)
+    ![location page load graph](/images/location_page_load.png)
 
 I also was reading in the Markdown documentation that you can use html inline so I knew it should be working and narrowed it down
 to and issue with the src.
 
-<img src="https://github.com/philip-sul/philip-sul.github.io/raw/master/location_page_load.png" alt="location page load graph" height="75%" width="75%">
+<img src="https://github.com/philip-sul/philip-sul.github.io/raw/master/images/location_page_load.png" alt="location page load graph" height="75%" width="75%">
 
 :)
 
