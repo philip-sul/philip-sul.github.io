@@ -18,7 +18,7 @@
 * .Net version of an API (back-end) that could be used for the Notebook Capstone (prototype) project.
 * Share bookmarks / annotate notes online.
 
-<img src="https://github.com/philip-sul/philip-sul.github.io/raw/master/get_bookmark.png" alt="get bookmark" height="100%" width="100%">
+<img src="https://github.com/philip-sul/philip-sul.github.io/raw/master/images/get_bookmark.png" alt="get bookmark" height="100%" width="100%">
 
 <hr>
 
@@ -31,7 +31,7 @@
 * A localhost version of a project that displays graphs of the current weather using Google Location API and OpenWeather API
 * Front-end project that used HMTL / CSS / JavaScript (jQuery)
 
-<img src="https://github.com/philip-sul/philip-sul.github.io/raw/master/location_page_load.png" alt="location page load graph" height="75%" width="75%">
+<img src="https://github.com/philip-sul/philip-sul.github.io/raw/master/images/location_page_load.png" alt="location page load graph" height="75%" width="75%">
 
 <hr>
 
