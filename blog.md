@@ -8,6 +8,27 @@
 # My Blog
 <hr>
 
+## Issue: Markdown issue with multiple lists on single page
+### Fix: Use Block or inline elements such as div to separate lists - 05.19.2020
+
+Issue:
+
+Was adding bullet points descriptions under some pictures and realized it was breaking my page.
+Did not find a recent fix on stack overflow so played with the html.
+
+But basically Markdown might interpret seperate lists on a page as one list.
+
+The fix is to use html and make sure it is enclosed in a container like a div:
+
+    <div>
+      <ul>
+         <li>Google Location API asking for your location.</li>
+         <li>It will result in something like the first image (above).</li>
+      </ul>
+    </div>
+
+<hr>
+
 ## Issue: Roslyn issue when running MVC project
 ### Fix: Outdated packages - 05.08.2020
 
