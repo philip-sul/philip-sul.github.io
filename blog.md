@@ -26,7 +26,7 @@ I have found hosting sites to demo and show off my projects in the future:
 
 <a href="https://www.heroku.com/">heroku</a> - Cloud application platform - Platform as a Service (PaaS)
 
-I have started using these and testing out their functionalities.
+I have started using these hosting sites and making test apps to explore their functionalities.
 
 My first small project idea is to host a back-end for my <a href="https://github.com/philip-sul/WeatherApp">weather app</a>.
 
