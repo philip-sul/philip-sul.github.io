@@ -30,7 +30,7 @@ I have started using these hosting sites and making test apps to explore their f
 
 My first small project idea is to host a back-end for my <a href="https://github.com/philip-sul/WeatherApp">weather app</a>.
 
-In the near future (July) I will tackle MongoDB, Redis and the latest Angular.   
+In the near future <del>(July)</del> I will tackle MongoDB, Redis and the latest Angular.   
 For now I will try to start a new project so I can learn more about node and express then include a db and Angular in the future.
 
 I would like to participate in open source projects as well:
